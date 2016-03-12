@@ -11,6 +11,7 @@
 @interface AppDelegate ()
 {
     NSString *_string;
+    NSString *some;
 }
 
 @end
