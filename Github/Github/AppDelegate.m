@@ -12,6 +12,7 @@
 {
     NSString *_string;
     NSInteger count;
+    int a;
 }
 
 @end
